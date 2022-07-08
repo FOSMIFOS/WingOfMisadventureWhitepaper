@@ -1,42 +1,41 @@
 ---
-description: Wing of Misadventure Blockchain Template General Information
+description: Wing of Misadventure の基本情報
 ---
 
 # Wing of Misadventure
 
-![Lyaloto Goddess](<.gitbook/assets/image (22).png>)
+![リャロト女神](<.gitbook/assets/image (22).png>)
 
-## Introduction
+## はじめに
 
-Wing of Misadventure is a metaverse based on the world of Misadventure, originally written by Allyson S.B, the main idea of ​​the project is to create multiple game series based on the universe and make it possible for players to dictate an economy based on crypto tokens.
+Wing of Misadventureは、Allyson S.B原作に基づくMisadventure（不運・災難）の世界をベースにしたメタバースで、この世界をベースに今後複数のゲームシリーズを展開し、プレイヤーが暗号通貨トークンに基づいた経済を自由に行き来できるようにすることがプロジェクトのメインアイデアである。
 
-We believe that we can be an MMO where the ecosystem doesn't just depend on new people joining P2E, but people who have fun with the game sustaining the ecosystem.
+これにより私たちはP2Eに新しく参加する人たちだけにエコシステムを依存するのではなく、ゲームを楽しんでいる人たちが自然とエコシステムを持続させるMMOになると信じています。
+私たちは本当にそう思っています。
 
-We truly believe that:
+公式にはこれはGameFiではなく、CryptoFiです。
 
-_The formula is not GameFi, it's CryptoFi._
+#### 魅力的なコレクション
 
-#### A charming collection
+『Wing of Misadventure』のNFTはP2Eに参加するために必須となりますが、供給量が限られた魅力的な資産でもあり、それぞれのコレクションは各ゲームシリーズの一部となり、またいつでもゲーム内で表示させることができます。
 
-The NFTs in Wing of Misadventure will be mandatory to participate in P2E, but they are also beautiful assets with limited supply, each collection will be part of a season and you can always show it in the game.
+#### 本当のゲームであることの必要性
 
-#### The need to be a real game
+F2Pプレイヤーはエコシステムの重要な一部です。Misadventureの経済はP2Eの新規参入だけでなく、ゲームを楽しんでストアでスキンやユーティリティを購入してくれるF2Pプレイヤーも重要です。そのためには、Wing of Misadventureが見せかけではなく、本当のゲームでなければなりません。
 
-F2P players are an essential part of the ecosystem, Misadventure's economy doesn't just revolve around new P2E entries, but also F2P players who enjoy the game and buy skins and utilities in our store, for that to happen, Wing of Misadventure must be a real game, not just a pretense.
+#### 投資家とF2Pプレイヤーのための公平なゲーム
 
-#### A fair game for investors and F2P players
+投資家はNFTやコインなどの報酬が得られるダンジョンに参加できますが、NFTはゲーム内の強さの特典は得られず、ビジュアル特典のみとなります。F2Pプレイヤーはレアアイテムのファームアップやゲーム内の$MISADとの交換が可能です。F2Pプレイヤーは$MISADをファームアップすることはできません。
 
-Investors can participate in dungeons that will give rewards like NFTs and coins, but NFTs will not give strength perks in the game, only visual perks. F2P players can farm rare items and trade for $MISAD in-game. F2P players can’t farm $MISAD.
+#### EスポーツMMO
 
-#### A E-SPORT MMO
+$MISADさえ支払えば、誰でもPVPモードに登録し、報酬を得ることができます。
 
-With a true PVP mode where your skills matter, everyone will be able to sign up for the PVP mode and reap rewards as long as they pay the $MISAD fee.
+#### 無限の可能性
 
-#### Infinite possibilities
+MMORPGは非常に多くのゲームモードやシステムに分岐できるため、「Wing of Misadventure」もアップデートを怠らず、ブロックチェーンの進化で常にエコシステムも更新されていくでしょう。
 
-An MMORPG can branch out into so many game modes and systems that Wing of Misadventure will never fail to be updated and the economy will always be renewing itself with the evolution of blockchains.
-
-### Social media general information
+### ソーシャルメディア総合情報
 
 | Channel   | Link                                                                                           |
 | --------- | ---------------------------------------------------------------------------------------------- |
