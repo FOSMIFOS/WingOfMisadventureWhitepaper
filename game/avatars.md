@@ -1,4 +1,4 @@
-# Avatars
+# アバター
 
 Avatars are characters that you can use in the game, each avatar has 8 skills and 3 passives that define your battle style. They represent you in Misadventure.
 
