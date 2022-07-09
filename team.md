@@ -1,35 +1,35 @@
-# 🤖 Team
+# 🤖 チーム
 
-We are an Indie team working on the 2015 Wing of Misadventure. For more information on our path, check [Retro Version](retro-version.md). We want to launch Wing on every platform and store possible, so our team is completely public.
+私たちは、2015年の「Wing of Misadventure」を制作しているインディーチームです。私たちの過去の道のりの詳細については、[Retro Version](retro-version.md) を確認してください。私たちは、可能な限りすべてのプラットフォームとストアでWing Of Misadventureを発売したいので、私たちチームの情報は完全に公開されています。
 
 ![](<.gitbook/assets/Allyson - FounderCEO.png>)
 
-Allyson S. Bacon - Founder/CEO
+Allyson S. Bacon - ファウンダー/CEO
 
 ![](<.gitbook/assets/Lucas Barros - Art Director.png>)
 
-Lucas Barros - Art Director
+Lucas Barros - アートディレクター
 
 ![](<.gitbook/assets/Lucas Prado - Marketing Manager.png>)
 
-Lucas Prado - Marketing Manager
+Lucas Prado - マーケティングマネジャー
 
 ![](<.gitbook/assets/Rafael Batista - Art Director.png>)
 
-Rafael Batista - Art Director
+Rafael Batista - アートディレクター
 
 ![](<.gitbook/assets/Lucas Tardivo - Blockchain Dev.png>)
 
-Lucas Tardivo - Blockchain Dev
+Lucas Tardivo - ブロックチェーン開発
 
 ![](<.gitbook/assets/Mariana - Community Manager.png>)
 
-Mariana Marques - Community Manager
+Mariana Marques - コミュニティーマネジャー
 
 ![](<.gitbook/assets/Lucas Rafael - Community Manager.png>)
 
-Lucas Rafael - Community Manager
+Lucas Rafael - コミュニティーマネジャー
 
 ![](<.gitbook/assets/Rafael Furlaneto - Community Manager.png>)
 
-Rafael Furlaneto - Community Manager
+Rafael Furlaneto - コミュニティーマネジャー
