@@ -1,16 +1,16 @@
 # アバター
 
-Avatars are characters that you can use in the game, each avatar has 8 skills and 3 passives that define your battle style. They represent you in Misadventure.
+アバターは、ゲーム内で使用できるキャラクターで、各アバターには8つのスキルと3つのパッシブがあり、バトルスタイルを決定します。WingOfMisadventureの中であなたを表現するキャラクターになります。
 
-#### Arthur
+#### アーサー
 
 ![](<../.gitbook/assets/image (23).png>)
 
-#### Anna
+#### アンナ
 
 ![](<../.gitbook/assets/image (13).png>)
 
-#### Chihiro
+#### チヒロ
 
 ![](<../.gitbook/assets/image (5).png>)
 
