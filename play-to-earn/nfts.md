@@ -1,76 +1,31 @@
 # NFTs
 
-There will initially be three types of NFT in the Misadventure metaverse:
+メタバース「Misadventure」には、スタート時に3種類のNFTを用意する予定です。
 
-### Divine Remnants
+### ディバイン・レムナント
 
 ![NFT MISADGEN1](<../.gitbook/assets/MISADGEN1 (1).png>)
 
-These are creatures that represent the will of the gods and pets that you can equip and that will allow you to enter dungeons where there is a chance to drop $MISAD and other NFTs. Remnants are not stronger than non-NFT pets, but they do give great stats.
+これは神々やペットの意思を表す生き物で、装備することで$MISADなどのNFTがドロップする可能性のあるダンジョンに入れるようになります。
+レムナントはNon-NFTペットより強いわけではありませんが、素晴らしいステータスを与えてくれます。
 
-#### There are 7 types of Remnants elements:
+#### レムナントエレメントは7種類あります。
 
-Fire
+火
 
-Water
+水
 
-Earth
+土
 
-Wind
+風
 
-Light
+光
 
-Dark
+闇
 
-Beast
+獣
 
-#### And 4 types of rarities:
-
-Common
-
-Uncommon
-
-Rare
-
-Divine
-
-#### The element affects the bonuses the Remnant will have in a given dungeon or day, the rarity increases the NFT and $MISAD drop chances:
-
-Common: 0% bonus
-
-Uncommon: 10% bonus
-
-Rare: 25% bonus
-
-Divine: 50% bonus
-
-### Goddess Equipment
-
-These are equipment with rarity above transcendent that can be turned into NFTs.
-
-_\*Players will have the option to turn any in-game item into NFT by paying a $MISAD fee_
-
-### Lands
-
-![Wing of Misadventure Land](<../.gitbook/assets/image (11).png>)
-
-Players will be able to have Lands where they can grow fruits, train pets and battle monsters.
-
-Everyone will be able to enter other players' lands and defeat monsters or even face bosses in player lands.
-
-All enemies defeated or resources collected generate resources that go to the landowner.
-
-**Main advantages of having a Land:**
-
-\-Constant generation of resources with the visit of players&#x20;
-
-\-Pets breeding training, obtaining NFT pets
-
-\-Obtaining fruits, plants, food and other types of crafting materials&#x20;
-
-\-$MISAD can be obtained by interacting with your own land
-
-**There will also be the following rarities of lands:**
+#### そして、4種類のレアリティがあります。
 
 Common
 
@@ -80,13 +35,59 @@ Rare
 
 Divine
 
-**Rarity mainly represents the size of the land, which consequently increases the number of resources obtained:**
+#### エレメントは特定のダンジョンや日ごとのボーナスに影響を与え、レアリティはNFTと$MISADのドロップ確率に影響します。:
 
-Common: size 1x
+Common: 0% ボーナス
 
-Uncommon: size 1.25x
+Uncommon: 10% ボーナス
 
-Rare: size 1.5x
+Rare: 25% ボーナス
 
-Divine: size 2.0x
+Divine: 50% ボーナス
+
+### 女神装備
+
+希少なレアリティを持つ装備品で、NFTに変化させることができるものです。
+
+プレイヤーは$MISADを支払うことで、ゲーム内のあらゆるアイテムをNFTに変換することができます。
+
+### 土地
+
+![Wing of Misadventure 土地](<../.gitbook/assets/image (11).png>)
+
+プレイヤーは、果物を育てたり、ペットを訓練したり、モンスターと戦ったりすることができる「土地」を持つことができるようになります。
+
+他のプレイヤーの土地に入り、モンスターを倒したり、プレイヤーの土地にいるボスと戦ったりすることも可能です。
+
+敵を倒したり、資源を集めたりすると、資源が発生し、土地所有者に支払われます。
+
+**土地を持つ主なメリット:**
+
+-プレイヤーの訪問により、常に資源が生成されます。
+
+-ペットの育成訓練、NFTペットの獲得。
+
+-果物、植物、食べ物、その他の種類の工芸品の材料が得られる
+
+-$MISADは自分の土地と交流することで入手可能
+
+**また、以下のようなレアリティを持つ土地も登場します。:**
+
+Common
+
+Uncommon
+
+Rare
+
+Divine
+
+**レアリティは主に土地の広さを表し、その結果、得られる資源の数が増えます:**
+
+Common: サイズ 1x
+
+Uncommon: サイズ 1.25x
+
+Rare: サイズ 1.5x
+
+Divine: サイズ 2.0x
 
