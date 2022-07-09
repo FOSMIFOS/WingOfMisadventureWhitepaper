@@ -49,4 +49,4 @@ Steamでは、"Play-to-Earn "モデルではないゲームにも関わらす、
 
 \-60% 開発チーム
 
-\-40% [コミュニティへの報酬](community-treasure.md).
+\-40% [コミュニティ基金](community-treasure.md).
