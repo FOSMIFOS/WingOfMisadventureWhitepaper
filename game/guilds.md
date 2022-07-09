@@ -1,12 +1,12 @@
-# Guilds
+# ギルド
 
-Players will be able to create guilds and dominate territories, guilds will gain from the loot of the dominated territory:
+プレイヤーはギルドを作って領地を支配することができ、ギルドは支配した領地の戦利品から利益を得ることができます。
 
-\-A percentage of the tamas dropped in the territory.
+\-領地内でドロップする$TAMASを配分。
 
-\-A small chance to get items dropped in the territory.
+\-領地内でドロップするアイテムが手に入る確率が少し上がる。
 
-The territory can be attacked by dungeon monsters and other guilds, so having members always active to defend the territory will be important.
+領地はダンジョンモンスターや他のギルドから攻撃される可能性があるため、常に領地を守るために活動するメンバーが重要になります。
 
-Guild creation will cost [$MISAD](../play-to-earn/usdmisad.md).
+ギルドの作成には[$MISAD](・・・/play-to-earn/usdmisad.md)が必要です。
 
