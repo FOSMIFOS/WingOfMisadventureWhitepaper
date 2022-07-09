@@ -1,10 +1,10 @@
-# MISADGEN1 pre-mint
+# MISADGEN1 プレミント
 
-The game database was populated on **05/13/2022** with the following attributes for each NFT:
+ゲームデータベースは、**2022/05/13**に、各NFTの以下の属性を入力しました。
 
 {% file src="../.gitbook/assets/immutable (1) (1).pdf" %}
 
-Generation code:
+生成コード:
 
 ```
             List<NFT> nft_list = new List<NFT>();
