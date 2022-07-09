@@ -1,32 +1,32 @@
 # Table of contents
 
 * [Wing of Misadventure](README.md)
-* [💰 Community Treasure](community-treasure.md)
-* [🎮 Retro Version](retro-version.md)
-* [🤖 Team](team.md)
-* [📃 Contracts](contracts.md)
-* [👊 Partners](partners.md)
-* [📺 Trailers](trailers.md)
-* [📚 Language Support](language-support.md)
+* [💰 コミュニティへの報酬](community-treasure.md)
+* [🎮 レトロバージョン](retro-version.md)
+* [🤖 チーム](team.md)
+* [📃 コントラクト](contracts.md)
+* [👊 パートナー](partners.md)
+* [📺 トレイラー](trailers.md)
+* [📚 言語サポート](language-support.md)
 
 ## Play-To-Earn
 
-* [Tokenomics](play-to-earn/tokenomics.md)
+* [トーケノミクス](play-to-earn/tokenomics.md)
 * [$MISAD](play-to-earn/usdmisad.md)
 * [$TAMAS](play-to-earn/usdtamas.md)
-* [NFTs](play-to-earn/nfts.md)
+* [NFT](play-to-earn/nfts.md)
 
 ## Game
 
 * [PVE](game/pve.md)
 * [PVP](game/pvp.md)
-* [Progression](game/progression.md)
-* [Mercenaries](game/mercenaries.md)
-* [Rent](game/rent.md)
-* [Wing Shop](game/wing-shop.md)
-* [Avatars](game/avatars.md)
-* [Factions](game/factions.md)
-* [Guilds](game/guilds.md)
+* [進行状況](game/progression.md)
+* [傭兵部隊](game/mercenaries.md)
+* [レンタル](game/rent.md)
+* [ウィングショップ](game/wing-shop.md)
+* [アバター](game/avatars.md)
+* [派閥](game/factions.md)
+* [ギルド](game/guilds.md)
 
 ## ROADMAP
 
@@ -34,15 +34,15 @@
 
 ## Future
 
-* [Misad Blockchain](future/misad-blockchain.md)
-* [Misad Store](future/misad-store.md)
-* [Poporo Swap](future/poporo-swap.md)
-* [Exchange](future/exchange.md)
+* [MISADブロックチェーン](future/misad-blockchain.md)
+* [MISADストア](future/misad-store.md)
+* [ポポロスワップ](future/poporo-swap.md)
+* [交換](future/exchange.md)
 
 ## Data
 
-* [MISADGEN1 pre-mint](data/misadgen1-pre-mint.md)
+* [MISADGEN1 プレミント](data/misadgen1-pre-mint.md)
 
 ## Study
 
-* [Sustainability](study/sustainability.md)
+* [持続可能性](study/sustainability.md)
