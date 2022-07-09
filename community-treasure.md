@@ -1,18 +1,18 @@
-# 💰 Community Treasure
+# 💰 コミュニティへの報酬
 
 
 
-It is a fund collected mainly by Ingame-shop and it can only be used to keep the game and community healthy, things like:
+これは主にIngame-shopによって集められた基金で、ゲームとコミュニティの健全性を保つためにのみ使用します。
 
-\-Organization of events and championships&#x20;
+\-イベントやチャンピオンシップの開催
 
-\-Actions to keep the economy healthy (provide liquidity, buyback, burn, etc)
+\-経済の健全性を保つための活動（流動性の提供、買い戻し、バーン、など）
 
-\-Replacement of the marketing fund in the future&#x20;
+\-将来的なマーケティング資金の補填
 
-\-Big updates to the game or development purpose&#x20;
+\-ゲームや開発目的への大きなアップデート
 
-\-Charity
+\-チャリティ
 
 #### Community Treasure Wallet:
 
