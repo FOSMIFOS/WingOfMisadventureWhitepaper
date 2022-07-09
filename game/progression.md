@@ -1,13 +1,13 @@
-# Progression
+# 進行状況
 
-Whenever you create a new character, it starts at level 1.
+新しいキャラクターを作成すると、必ずレベル1からスタートします。
 
-Defeating monsters, completing quests or special events grants experience, which eventually increases your character's level.
+モンスターを倒したり、クエストやイベントをこなすことで経験値が得られ、最終的にキャラクターのレベルが上がります。
 
-When you level up, you gain:
+レベルが上がると、次のような効果があります。
 
-\-Status increase, which makes your character stronger
+\-キャラクターが強くなる（ステータスアップ）
 
-\-Skill points that allow you to unlock active and passive skills.
+\-スキルポイントにより、アクティブスキルやパッシブスキルを習得することができます。
 
-\-You will be able to equip stronger equipment
+\-より強力な装備品を装備できるようになります。
