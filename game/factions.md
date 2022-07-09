@@ -1,37 +1,38 @@
-# Factions
+# 派閥
 
 ![](<../.gitbook/assets/image (12).png>)
 
-The faction system existed in all old versions of the Misadventure universe, that's because the world of Misadventure is in constant war and the center of everything revolves around two cities: Lilia and Lotos.\
+派閥システムはMisadventureの世界のすべての古いバージョンに存在していました。
+これはMisadventureの世界が終わりの無い戦争の最中で、そのすべてはリリアとロトスの2つの都市を中心に展開しているためです。
 \
-In this new game we bring the faction war system, where players of the same faction will work together to defeat the enemy faction.
+今回の新作では、同じ派閥のプレイヤーが協力して敵の派閥を倒す「派閥戦争」システムを導入しています。
 
-## Selecting the Faction <a href="#48fb" id="48fb"></a>
+## 派閥の選択 <a href="#48fb" id="48fb"></a>
 
-Unlike the old 2.0 version of the game, you will be able to choose your faction in character creation, this means that the faction is no longer linked to the avatar.
+旧2.0版とは異なり、キャラクター作成時に派閥を選択できるようになるため、アバターと派閥が連動しなくなります。
 
-Members of enemy factions cannot perform some interactions with each other such as:
+敵対する派閥のメンバー同士では、以下のような交流ができなくなります。
 
-* Join the same party
-* Join the same guild
+* 同じパーティーに参加する
+* 同じギルドに入る
 
-## Faction Switch <a href="#0726" id="0726"></a>
+## 派閥スイッチ <a href="#0726" id="0726"></a>
 
-You can pay a $MISAD fee to change your character's faction.
+キャラクターの派閥を変更するには、$MISADの手数料を支払う必要があります。
 
 ## PVP <a href="#c730" id="c730"></a>
 
-Misadventure's open PVP revolves around factions, you can attack anyone, but defeating players from the same faction as yours will bring you severe penalties, the player's death so should be worth it.
+MisadventureのオープンPVPは派閥を中心に展開され、誰でも攻撃することができますが、自分と同じ派閥のプレイヤーを倒すと厳しいペナルティが待っています。プレイヤーの死は重要な要素なので、その点は注意が必要です。
 
-## Dispute <a href="#6cb1" id="6cb1"></a>
+## 紛争 <a href="#6cb1" id="6cb1"></a>
 
-Faction events will be constantly organised, for example:\
-\-Faction that finished the most dungeons\
-\-Faction that created the most items\
-\-Faction that defeated the most enemies of the opposing faction\
-\
-Among other disputes that will bring temporary benefits to factions.
+派閥イベントは随時開催されます。
+例）
+-最も多くのダンジョンを完了した派閥
+-アイテムを一番多く作った派閥
+-最も多くの敵を倒した派閥。
+その他、派閥に一時的な利益をもたらすような争いもあります。
 
-## Future <a href="#d9b0" id="d9b0"></a>
+## 未来 <a href="#d9b0" id="d9b0"></a>
 
-A system of government where the faction can elect a leader who will dictate the path of war.
+派閥内の戦争の道筋を指示するリーダーを選ぶことができる政治システム。
