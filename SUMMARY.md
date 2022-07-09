@@ -1,4 +1,4 @@
-# Table of contents
+# 目次
 
 * [Wing of Misadventure](README.md)
 * [💰 コミュニティへの報酬](community-treasure.md)
@@ -16,7 +16,7 @@
 * [$TAMAS](play-to-earn/usdtamas.md)
 * [NFT](play-to-earn/nfts.md)
 
-## Game
+## ゲーム
 
 * [PVE](game/pve.md)
 * [PVP](game/pvp.md)
@@ -28,21 +28,21 @@
 * [派閥](game/factions.md)
 * [ギルド](game/guilds.md)
 
-## ROADMAP
+## ロードマップ
 
 * [2022](roadmap/2022.md)
 
-## Future
+## 未来
 
 * [MISADブロックチェーン](future/misad-blockchain.md)
 * [MISADストア](future/misad-store.md)
 * [ポポロスワップ](future/poporo-swap.md)
 * [交換](future/exchange.md)
 
-## Data
+## データ
 
 * [MISADGEN1 プレミント](data/misadgen1-pre-mint.md)
 
-## Study
+## 知識
 
 * [持続可能性](study/sustainability.md)
