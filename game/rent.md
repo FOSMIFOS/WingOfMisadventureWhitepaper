@@ -1,13 +1,13 @@
-# Rent
+# レンタル
 
-You will be able to rent equipment and pets for players to use for a certain period of time.
+プレイヤーが使用する装備やペットを一定期間レンタルすることができるようになります。
 
-It works as follows:
+仕組みは以下の通りです。
 
-\-A user who owns an NFT puts it up for rent on our website, and a player can rent the NFT for free for a specified amount of days
+-NFTを所有するユーザーは、ウェブサイト上でNFTをレンタルすることができ、プレイヤーは指定された日数、NFTを無料でレンタルすることができます。
 
-\-The daily farm of the player who rented the NFT is shared with the owner.
+-NFTをレンタルしたプレイヤーの1日の農場は、オーナーと共有されます。
 
-\-At the end the owner of the NFT gives an evaluation for the player's service.
+-NFTのオーナーは最後にプレイヤーのサービスに対して評価を行います。
 
-\-Players with good ratings have priority to rent again.
+-良い評価を受けたプレイヤーは優先的に再レンタルすることができます。
