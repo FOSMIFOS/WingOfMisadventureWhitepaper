@@ -1,7 +1,7 @@
 # 目次
 
 * [Wing of Misadventure](README.md)
-* [💰 コミュニティへの報酬](community-treasure.md)
+* [💰 コミュニティ基金](community-treasure.md)
 * [🎮 レトロバージョン](retro-version.md)
 * [🤖 チーム](team.md)
 * [📃 コントラクト](contracts.md)
