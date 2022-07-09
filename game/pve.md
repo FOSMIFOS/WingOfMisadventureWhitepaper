@@ -1,39 +1,40 @@
 # PVE
 
 {% embed url="https://youtu.be/Mh9BChmw-lQ" %}
-Anna 3D model fighting
+アンナ 3D モデル 戦闘シーン
 {% endembed %}
 
 {% embed url="https://www.youtube.com/watch?v=K58h-jo26Bo" %}
-Chihiro 3D model fighting test
+チヒロ 3D モデル 戦闘シーン
 {% endembed %}
 
 {% embed url="https://www.youtube.com/watch?v=_cl0PDehmd0" %}
-Arthur 3D model fighting test
+アーサー 3D モデル 戦闘シーン
 {% endembed %}
 
-There will be many objectives to be conquered in Misadventure and the chosen objective must suit the player's style of play:
+『Wing Of Misadventure』では多くの目標が用意されており、プレイヤーのプレイスタイルに合わせて目標を選択する必要があります。
 
-#### Story
+#### ストーリー
 
-In Misadventure, you can follow the story to find out about the game's world, the story mode can give you important rewards to increase your character's strength.
+『Wing Of Misadventure』ではストーリーを追うことでゲームの世界観を知ることができ、ストーリーモードではキャラクターの強さを上げるための重要な報酬を手に入れることができます。
 
-#### Farm
+#### 農場
 
-You will be able to spend your time defeating monsters and getting items and coins, weak monsters give low rewards, but in excess they can be worth a lot.
+モンスターを倒してアイテムやコインを手に入れることに時間を費やすことになります。弱いモンスターは報酬が少ないですが、増えれば多くの価値が生まれます。
 
-#### Dungeons
+#### ダンジョン
 
-There are dungeons for P2E players that can award $MISAD and NFTs, for F2P players there is no chance of dropping $MISAD or Remnants, but there are F2P dungeons with low chance of dropping NFT Goddess equipment.
+P2Eプレイヤーには$MISADやNFTがもらえるダンジョンがあります。
+F2Pプレイヤーには$MISADやレムナントがドロップする確率はありませんが、NFT神器がドロップする確率の低いF2Pダンジョンが存在します。
 
 
 
-#### BOT Policy
+#### BOT ポリシー
 
-It is important to our ecosystem that BOTS do not exist, so the following must be done:
+ボットが存在しないことは、私たちのエコシステムにとって重要であるため、次のことを行う必要があります。
 
-\-A large group of moderators must follow the game and the players.&#x20;
+-モデレーターの大規模なグループは、ゲームとプレイヤーをフォローする必要があります。
 
-\-Monsters with relevant rewards should be hard to defeat.&#x20;
+-報酬を排出するモンスターは、倒すのが難しいはず（認識）です。
 
-\-Accounts that automate actions should be banned.
+-行動を自動化するアカウントは禁止されるべきです。
