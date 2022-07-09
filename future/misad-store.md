@@ -1,31 +1,31 @@
-# Misad Store
+# Misad ストア
 
-Misad Store will function as a cryptocurrency-based game store, developers will be able to place their games on Misad Store and get new users/buyers. Misad Store keeps **5%\~15%** of all sales made on our platform.
+Misad ストアは暗号通貨ベースのゲームストアとして機能し、開発者はMisad ストアにゲームを配置し、新しいユーザー/バイヤーを得ることができるようになります。Misad ストアは、私たちのプラットフォームで行われたすべての売上高の**5%~15%**を保持します。
 
-The entire sale is processed by us and split between the developer automatically.
+売上はすべて当社で処理し、開発者間で自動的に分配されます。
 
-## Fund Raising
+## 資金調達
 
-Gaming teams verified by us will be able to offer tokens created in Misad Chain to fund projects.
+当社が検証したゲーミングチームは、Misad チェーンで作成したトークンをプロジェクトの資金として提供することができるようになります。
 
-## Indie developer incentive&#x20;
+## インディーズデベロッパー奨励金
 
-Misad Games will help developers launch projects on Misad Chain.
+Misad Gamesは、開発者がMisad チェーンでプロジェクトを立ち上げるのを支援します。
 
-Misad Store will provide:
+Misad ストアが提供します。
 
-Advertising
+広告
 
-Platform
+プラットフォーム
 
-Technical consultation
+技術的な相談
 
-Advices
+アドバイス
 
-Launch support
+ローンチサポート
 
-And everything else the developer might need! We believe that indie developers have a lot of potential!
+その他、開発者が必要とするあらゆるものを提供します。私たちは、インディーズデベロッパーの可能性を信じています。
 
-## Everything is charged in MISADUSD
+## すべてがMISAD USDにチャージされます
 
-Everything at the Misad Store is billed at the equivalent of the Misad Chain Network Dollar
+MISADストアのすべての商品は、MISADチェーンネットワークUSD相当額で請求されます。
