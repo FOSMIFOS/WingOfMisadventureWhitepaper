@@ -1,3 +1,3 @@
-# Exchange
+# 交換
 
-Eventually we want Misad to be able to exchange cryptos to fiat directly without using a bridge to other networks.
+最終的には、他のネットワークとのブリッジを使わずに、$Misadが直接暗号通貨を法定通貨に交換できるようにしたいと考えています。
