@@ -1,19 +1,19 @@
-# Misad Blockchain
+# Misad ブロックチェーン
 
-We want to become our own network with our own Wallet focused on developing the Misadventure metaverse through other initiatives and projects.
+私たちは、他の取り組みやプロジェクトを通じて、Wing Of Misadventureのメタバースを発展させることに焦点を当てた、独自のWalletを持つネットワークになりたいと考えています。
 
-In this network, [$MISAD](misad-blockchain.md#also-functional-for-developers) is the main currency and is used as the gas rate.
+このネットワークでは、[$MISAD](misad-blockchain.md#also-functional-for-developers)が主要通貨として、ガス料金として使用されます。
 
-## A place where every game developer can release a token for free.
+## すべてのゲーム開発者が無料でトークンを公開できる場所。
 
-We will offer a platform where every game developer can customize a token and create it in their own way without programming knowledge, the token will only work on Misad Chain.
+私たちは、すべてのゲーム開発者が、プログラミングの知識がなくても、独自の方法でトークンをカスタマイズして作成できるプラットフォームを提供し、そのトークンはMisad Chain上でのみ機能するようにしていきます。
 
-We will be adding optional functions constantly so that everyone can create the token in the best way.
+誰もが最適な方法でトークンを作成できるよう、オプション機能を随時追加していく予定です。
 
-## Also functional for Developers
+## デベロッパー向けにも機能的であること
 
-Don't want to use the customization offered by us? No problem, you can create the token your own way too.
+私たちが提供するカスタマイズを使用したくないですか？大丈夫です、あなた自身の方法でトークンを作成することもできます。
 
-## Bridge to all networks&#x20;
+## すべてのネットワークへのブリッジ
 
-You will be able to export your token to the network you prefer.
+トークンをお好みのネットワークにエクスポートすることができるようになります。
