@@ -1,10 +1,9 @@
-# 📚 Language Support
+# 📚 言語サポート
 
-**Languages ​​the game will be available in (will be updated as more languages ​​queue up):**
+**実装予定言語（順次更新予定）：＊＊＊＊。
 
-English
+英語
 
-Portuguese
+ポルトガル語
 
-Japanese
-
+日本語
