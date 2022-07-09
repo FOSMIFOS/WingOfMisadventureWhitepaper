@@ -1,11 +1,13 @@
-# 🎮 Retro Version
+# 🎮 レトロバージョン
 
 {% embed url="https://www.youtube.com/watch?t=11s&v=yD7Wb3C7m2o" %}
 
 \
-Wing of Misadventure is a game that has been in development since 2015 and has had many versions (not play-to-earn). We are a team that has been in the field of online games for years without partners or investors and our commitment to always keep Wing evolving with the money the project earns has proven itself over the years.
+Wing of Misadventureは2015年から開発を続けているゲームで、これまで多くのバージョン（P2Eではありませんでしたが）がありました。
+私たちはパートナーや投資家こそいませんでしたが、オンラインゲームの分野で何年も活動してきたチームであり、
+プロジェクトそれ自体で稼いだ資金で常にWingシリーズを進化させ続けるという姿勢は、昔から全く変わっていません。
 
-## Timeline
+## タイムライン
 
 2015
 
@@ -29,24 +31,22 @@ Wing of Misadventure is a game that has been in development since 2015 and has h
 
 
 
-## Statistics
+## 統計データ
 
-Steam proves our ability to keep players active without the need for the Play-To-Earn model.
+Steamでは、"Play-to-Earn "モデルではないゲームにも関わらす、アクティブなプレイヤーは常に一定数保っておりました。
+下記はアクティブな開発期間中に、**同じ時間(0:00)**にオンラインになっているプレイヤーの数です。
 
-Amount of players online **AT THE SAME TIME** in the active development period:
-
-Date | Players Online | Twitch Viewers
+日付 | オンラインプレイヤー | Twitch ビューアー
 
 ![](<.gitbook/assets/image (20).png>)
 
-More info on: [https://steamdb.info/app/677810/graphs/](https://steamdb.info/app/677810/graphs/)
+より詳細情報はこちら on: [https://steamdb.info/app/677810/graphs/](https://steamdb.info/app/677810/graphs/)
 
-## Retro Version
+## レトロバージョン
 
-The latest non-play-to-earn version is version 2.0 which we named "Wing of Misadventure Retro". This version will continue on Steam
+最新の非P2Eのバージョンは、「Wing of Misadventure Retro」と名付けたバージョン2.0です。このバージョンはSteamで継続されます。
+このバージョンの利益は、以下のように分配されます（国税を除く）。
 
-The profits of this version are divided as follows (excluding country taxes):
+\-60% 開発チーム
 
-\-60% for the development team
-
-\-40% for the [Community Treasure](community-treasure.md).
+\-40% [コミュニティへの報酬](community-treasure.md).
