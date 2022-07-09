@@ -1,16 +1,17 @@
-# Wing Shop
+# ウィングショップ
 
-There will be a non-NFT and non-player-driven store where the development team will release items such as Skins, in-game services and other useful prospects for players, in this store we will have things like:
+開発チームがスキンのようなアイテムやゲーム内サービス、その他プレイヤーに役立つ見込みのあるものをリリースします。
+このストアでは次のようなものが用意される予定です。
 
-\-Skins
+\-スキン
 
-\-Avatar release
+\-アバターリリース
 
-\-Non-NFT companions
+\-NFT以外のコンパニオン
 
-\-Services like changing avatar, changing name, changing guild name and other simple changes.
+\-アバター変更、名前変更、ギルド名変更など、簡単な変更サービス。
 
-The currency used in this store is $MISAD, 10% of the amount collected by the store is burned monthly, 80% goes to the community treasury and 10% goes to the development team.
+このストアで使用される通貨は$MISADで、ストアで集められた金額の10%が毎月BARN（バーン）され、80%がコミュニティ基金に、10%が開発チームに寄付されます。
 
 
 
