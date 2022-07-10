@@ -2,104 +2,105 @@
 
 ![$MISAD coin](<../.gitbook/assets/image (21).png>)
 
-**Misad Economic Loop model**
+**Misad・エコノミック・ループモデル**
 
 ![](<../.gitbook/assets/image (32).png>)
 
-## Introduction&#x20;
+## はじめに
 
-Wing of Misadventure will create an environment where players can share Free-To-Play and Play-To-Earn space in a healthy way, without assigning the Pay-To-Win factor, this will be done as follows:
+Wing of Misadventureは、Pay-To-Winの要素を排除し、Free-To-PlayとPlay-To-Earnの空間を健全に共有できる環境を構築するため、以下のように実施いたします。
 
-\-Everyone can play and explore the game for free, including getting rare items.&#x20;
+\-レアアイテムの入手を含め、誰もが無料でゲームをプレイし、探索できるようにします。
 
-\-Features that allow you to farm NFTs and $MISAD do not assign strength
+\-NFTや$MISADをファームアップできる機能は強さを割り当てない。
 
-#### Using this as a main rule the $MISAD will be the following use cases:
+#### これを主なルールとして、$MISADは以下のような使い方をすることになります。:
 
-\-NFT Mint to farm $MISAD and other NFTs&#x20;
+-NFT Mintで$MISADなどのNFTをファームアップする
 
-\-Purchase items in the [Wing Shop](../game/wing-shop.md).&#x20;
+-[ウィングショップ](../game/wing-shop.md)でアイテムを購入する。
 
-\-Registration for championships and events.&#x20;
+-チャンピオンシップやイベントへの参加登録
 
-\-Fee for entering dungeons that give NFTs as rewards&#x20;
+-NFTが報酬としてもらえるダンジョンに入場する際の料金
 
-\-You will be able to trade $MISAD through the trade window with other players&#x20;
+-トレードウィンドウを通じて、他のプレイヤーと$MISADをトレードできるようになります
 
-\-Stake $MISAD with fair APR
+-公正なAPRで$MISADを取得することができます。
 
-\-Future partnerships with other projects may encourage the token to be used in other cryptocurrency sectors
+-将来的には、他のプロジェクトとの提携により、他の暗号通貨分野でもトークンが使用される可能性があります。
 
-\-Others yet to be defined in the future (check[ Misad Blockchain](../future/misad-blockchain.md))
+その他、将来的に定義される予定です（[ Misad Blockchain ](../future/misad-blockchain.md) をご確認ください）。
 
-Each $MISAD transaction will have a 3% fee where 100% of the fee is burned weekly, making $MISAD a deflationary currency.
+各$MISADの取引には3%の手数料がかかり、手数料の100%が毎週焼却（バーン）されるため、$MISADはデフレ通貨となります。
 
-#### Burning
 
-Part of the coin is burned whenever:
+#### 焼却（バーン）
 
-\-Players make a trade with another player
+コインの一部は下記のいつでも焼却（バーン）されます。
 
-\-A purchase is made on the market
+-他のプレイヤーとトレードをするとき。
 
-\-A player mint or renews an NFT (in which case 5% is burned)
+-マーケットで購入した場合
 
-\-A player enters a dungeon
+-NFTを作成・更新した場合（この場合、5％が焼却（バーン）されます）。
 
-\-A player signs up for a tournament or event
+-ダンジョンに入る
 
-This makes everyone end up contributing to token deflation.
+-プレイヤーがトーナメントやイベントに参加する。
 
-#### F2P players contribute to the ecosystem in the following ways:&#x20;
+このように、結局は全員がトークン・デフレに貢献することになるのです。
 
-\-Purchase skins or any items from the in-game store&#x20;
+#### F2Pプレイヤーは、以下のような形でエコシステムに貢献しています。
 
-\-Participating in tournaments and events&#x20;
+-ゲーム内ショップでスキンやアイテムを購入する。
 
-\-Trading with other players&#x20;
+-トーナメントやイベントに参加する。
 
-\-Making purchases on the marketplace
+-他のプレイヤーと取引する。
 
-\-Becoming an audience for the project and a possible word spreader
+-マーケットプレイスでの購入。
 
-#### The reward pool will also decrease with each cycle
+-プロジェクトの視聴者、口コミの拡散者として。
 
-With the constant deflation of the token, the reward pool will be equitably reduced to keep Play-To-Earn's APR healthy and prevent token dumps in the market. It also means that it doesn't matter if you enter at the beginning of the project or in the future, holding is always an interesting option.
+#### 報酬プールはサイクルごとに減少します。
 
-#### _Do we always depend on new people coming in? No! Just people having fun. We can have a healthy economy if there are people in the community who play the game because it's a game._
+トークンのデフレが続く中、Play-To-EarnのAPRを健全に保ち、市場でのトークン投棄を防ぐために、リワードプールは公平に減少していきます。また、プロジェクトの初期に参入するか、将来的に参入するかは関係なく、保有することは常に興味深い選択肢であることを意味します。
 
-#### No need to pay a fee to use the token in-game!&#x20;
+#### 新しい人が入ってくることに常に依存しているのでしょうか？いいえ。ただ、楽しんでいる人たちが コミュニティーの中に、ゲームだから遊ぶという人がいれば、健全なエコシステムが成り立ちます_。
 
-$MISAD needs to be deposited in the game to be used, the token charge is done within the game without using gas.
+#### トークンをゲーム内で使用するために料金を支払う必要はありません！
 
-### Token Mechanics
+$MISADはゲーム内で入金しないと使えません、トークンのチャージはガスを使わずにゲーム内で行われます。
 
-#### 6.8% fee on every out-of-game transaction
+### トークンの仕組み
 
-Each transaction made outside the game charges a **4.8% fee** that goes directly to the [community treasury](../community-treasure.md).
+### ゲーム外での取引ごとに6.8%の手数料がかかる
 
-#### _1% is automatically reserved for liquidity as follows:_
+ゲーム外で行われる各取引には**4.8%の手数料**がかかり、この手数料は直接[コミュニティ基金](../community-treasure.md)に送られる。
 
-The contract reserves 1% in its own token balance until it reaches a specific amount of tokens, the amount can be queried in BscScan by the variable numTokensSellToAddToLiquidity
+#### 1%は以下のように流動性のために自動的に確保されます。
 
-When the amount is reached, the contract takes the following steps:
+この金額はBscScanの変数numTokensSellToAddToLiquidityで問い合わせることができます。
 
-\-Swap half of the tokens for BNB
+この量に達すると、契約は次のステップを踏みます。
 
-\-Adds the BNB and remaining tokens in the liquidity.
+-トークンの半分をBNBにスワップする。
 
-The contract does not calculate price changes, therefore, there is a BNB margin from the impact of selling half of the tokens that is not included in the liquidity and remains in the contract, whenever the BNB balance of the contract reaches 0.01, the contract uses the BNB to buyback $MISAD, and sends the $MISAD to the community treasury.
+-BNBと残りのトークンを流動性に追加する。
 
-#### _**1% will be distributed to all holders.**_
+このコントラクトは価格変動を計算しないため、トークンの半分を売却した影響によるBNBマージンが流動性に含まれずコントラクトに残り、コントラクトのBNB残高が0.01になるたびに、そのBNBを使って$MISADを買い取り、$MISADをコミュニティ基金に送ります。
 
-## **T**emporary fee
+#### _**1% が全保有者に分配されます**_。
 
-The token fees will be progressively reduced over the months and years as $MISAD slowly links up with other metaverse projects.
+## **T** 臨時費用
 
-## $TAMAS tax to move $MISAD
+トークン手数料は、$MISADが他のメタバースプロジェクトと徐々にリンクするにつれて、数ヶ月から数年の間に徐々に削減される予定です。
 
-To transfer $MISAD from the game to your wallet or to carry out $MISAD trades within the game, you need to pay a fee of [$TAMAS](usdtamas.md)
+## $MISADを移動させるための$TAMAS税
 
-![Ícone "Verificada pela comunidade"](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAQAAAAngNWGAAABDUlEQVR4AYXRgUZDYRjH4TegFTKgpEqiFJgoWAoMEQGBgBboChaaAKxLKAhAhQqAdAmpBIQolkCFqp2nITvNKXuA7+/Hhzey5OWjE4Nq3rzY1f9/NGHPB549492+8Ww060iCS2XdctZdI3GsECmb+HJoIX6x6EgDm+lURTH+YB7V9nAqE5WNme4YKuOiY6iMe6PaQxUUIuTbswgFVNJwA8sO3Bn6yR6bWZMSNtJwDtuWfHpQxaPx9C9zadil7jrCigbq6UXceNIVKTWUIqypm2ytJdTiNyNeXclF6GttOVfeDEc7qzjR23r3OMFqZKng1kw0mXGLrfibHTScOZWgGv9TdC6ROFeMTgwYiIxvJzMRWQbeGZUAAAAASUVORK5CYII=)\
+ゲーム内から自分のウォレットに$MISADを移動したり、ゲーム内で$MISADの取引を行うには、[$TAMAS](usdtamas.md)という手数料を支払う必要があります。
+
+! [Ícone「Verificada pela comunidade」](data: image/png; base64, iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAQAAAAngNWGAAABDUlEQVR4AYXRgUZDYRjH4TegFTKgpEqiFJgoWAoMEQGBgBboChaaAKxLKAhAhQqAdAmpBIQolkCFqp2nITvNKXuA7+/Hhzey5OWjE4Nq3rzY1f9/NGHPB549492+8Ww060iCS2XdctZdI3GsECmb+HJoIX6x6EgDm+lURTH+YB7V9nAqE5WNme4YKuOiY6iMe6PaQxUUIuTbswgFVNJwA8sO3Bn6yR6bWZMSNtJwDtuWfHpQxaPx9C9zadil7jrCigbq6UXceNIVKTWUIqypm2ytJdTiNyNeXclF6GttOVfeDEc7qzjR23r3OMFqZKng1kw0mXGLrfibHTScOZWgGv9TdC6ROFeMTgwYiIxvJzMRWQbeGZUAAAAASUVORK5CYII=)\
 
 
