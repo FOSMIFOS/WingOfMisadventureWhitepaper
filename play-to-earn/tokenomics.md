@@ -20,7 +20,7 @@
 
 報酬ウォレットに入る価値のある資産、トークンはゲーム内で手に入れることができます。
 
-wallet:[ 0x18978d485210ed0e28d1e2ade2d5f1be48085d99](https://bscscan.com/token/0x9d61d53e16d61a34c008fbf80e0c4afb2586df91?a=0x18978d485210ed0e28d1e2ade2d5f1be48085d99)
+ウォレット:[ 0x18978d485210ed0e28d1e2ade2d5f1be48085d99](https://bscscan.com/token/0x9d61d53e16d61a34c008fbf80e0c4afb2586df91?a=0x18978d485210ed0e28d1e2ade2d5f1be48085d99)
 
 #### エコシステム基金: 14.90%
 
