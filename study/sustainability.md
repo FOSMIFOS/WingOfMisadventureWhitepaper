@@ -1,24 +1,24 @@
-# Sustainability
+# 持続可能性
 
-There are specific points that make Wing of Misadventure truly sustainable in an NFT blockchain gaming economy:
+NFTブロックチェーンゲーム経済において、「Wing of Misadventure」が真に持続可能なものにするための具体的なポイントがあります。
 
-\-Our focus is on being a real game, so our post-game marketing is fully focused on the F2P audience. This means that we want the number of players who play the game for fun to be greater than the number of players who play the game for profit.
+-私たちは本物のゲームであることに重点を置いているため、ゲーム後のマーケティングはF2Pのオーディエンスに完全にフォーカスしています。これは、ゲームを楽しむためにプレイするプレイヤーの数が、利益を得るためにプレイするプレイヤーの数より多くなるようにすることを意味します。
 
-\-Investors will receive the profits from the F2P public, this means that the money received by the project will no longer depend on new investors, but on real players.
+-F2Pの一般ユーザーからの利益は投資家が受け取ります。これは、プロジェクトが受け取るお金が、もはや新しい投資家に依存するのではなく、実際のプレーヤーに依存することを意味します。
 
-\-Investors are encouraged to help the project grow by just inviting people to play, spreading the word is like helping your own investment.
+-投資家の皆様には、プレイヤーの皆様を招待していただくだけで、プロジェクトが成長するようご協力いただくことができます。
 
-\-The problem of NFTs games in which pyramids arise because the projects do not have the ability to profit without investors ceases to exist from the moment the game is real and moves the entertainment market.
+-NFTsゲームでは、投資家がいないと収益が上がらないため、ピラミッドが発生するという問題があったが、ゲームがリアルになり、エンターテインメント市場を動かした瞬間から存在しなくなります。
 
-\-The play-to-win factor will be encouraged but the number of tokens distributed by P2E will never be more than the game's treasure can pay, so rewards are set based on the game's growth, the more the game grows in the market, the more investors win. There is no reason to encourage investors to enter with promises of quick gains, we must conquer the gaming market, not the betting market.
+-play-to-win（プレイトゥウィン）の要素は奨励されますが、P2Eで配布されるトークンの数は、ゲームの報酬が支払える数以上にはならないので、報酬はゲームの成長に応じて設定され、ゲームが市場で成長すればするほど、投資家の勝利が増えます。手っ取り早く儲かるという約束で投資家の参入を促す理由はありません。これはただの賭け事市場ではなく、投資家はゲーム市場を征服しなければならないのですから。
 
 ![](<../.gitbook/assets/image (25).png>)
 
 
 
-## Case study:
+## ケーススタディ
 
-Imagine that you entered as an investor at the beginning of an MMORPG buying 10% of the game's assets (tokens and NFTs). An MMORPG that then had an annual revenue of $100,000,000 received that amount from entertainment alone (conservative value based on some famous games on the market without P2E model), value that was applied to the game token.
+あるMMORPGの初期に投資家として参入し、ゲームの資産（トークンやNFT）の10％を購入したとします。MMORPGの年間収益が1億ドルになったとき、エンターテイメントだけでその金額を受け取ります。（P2Eモデルなしで市場に出ているいくつかの有名なゲームに基づく保守的（控えめ）な値）、この値はゲームトークンに適用されました。
 
 
 
