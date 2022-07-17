@@ -91,7 +91,7 @@ Rare: サイズ 1.5x
 
 Divine: サイズ 2.0x
 
-### Misadventure　ソウルズ&#x20;
+### Misadventure　ソウルズ(魂)&#x20;
 
 ![](../.gitbook/assets/Misadventure-Souls2.png)
 
